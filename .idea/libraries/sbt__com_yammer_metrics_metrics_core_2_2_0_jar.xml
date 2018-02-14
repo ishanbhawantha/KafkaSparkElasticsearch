@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.yammer.metrics:metrics-core:2.2.0:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/com.yammer.metrics/metrics-core/metrics-core-2.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/com.yammer.metrics/metrics-core/metrics-core-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

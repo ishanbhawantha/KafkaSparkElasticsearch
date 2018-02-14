@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.101tec:zkclient:0.3:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/com.101tec/zkclient/zkclient-0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/com.101tec/zkclient/zkclient-0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
